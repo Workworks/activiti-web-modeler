@@ -1,0 +1,4 @@
+server:
+  servlet:
+    context-path: /activiti-explorer/service
+  port: 8080
